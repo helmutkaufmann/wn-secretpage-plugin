@@ -1,0 +1,19 @@
+{
+    "name": "mercator/wn-secretpage-plugin",
+    "type": "winter-plugin",
+    "description": "Password-protect individual CMS or Winter Static Pages",
+    "keywords": ["winter", "wintercms", "laravel", "user", "login", "password", "CMS", "static", "page", "pages", "extension", "plugin", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Helmut Kaufmann",
+            "role": "Author",
+            "homepage": "https://mercator.li"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    }
+}
