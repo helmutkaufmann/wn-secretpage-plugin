@@ -4,7 +4,7 @@ This plugin allows simple password-protection of individual CMS or Winter Static
 ## Installation
 For the time being, use composer to install:
 ```
-composer mercator/wn-secretpage-plugin
+composer require mercator/wn-secretpage-plugin
 php artisan winter:up
 ```
 
