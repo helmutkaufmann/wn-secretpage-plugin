@@ -1,5 +1,5 @@
 # Secret Page
-This plugin brings the ability to easily üassword-protect individual CMS or Winter Static Pages.
+This plugin allows simple password-protection of individual CMS or Winter Static Pages.
 
 ## Installation
 For the time being, use composer to install:
